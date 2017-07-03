@@ -1,0 +1,38 @@
+header a{
+
+   color:#FA8072; 
+
+}
+
+input[type=text]{
+
+   background:#FFFFED;
+   font-size:18px;
+
+}
+
+input[type^=pass]{
+
+   background:#9393FF;
+   font-size:14px;
+
+}
+
+section img:first-child{
+
+    width:300px;
+
+}
+
+
+ul li{
+
+  color:#00FFFF;
+
+}
+
+footer a{
+
+  color:#C07AB8;
+
+}
